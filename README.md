@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am currently working as a Junior DevOps Engineer in Jois Technologies
+I am currently working as a Junior DevOps Engineer in Jois Technologies
 
 
 ## 🌐 Socials:
